@@ -1,0 +1,8 @@
+{
+  "name": "stock-trade-sim",
+  "version": "1.0.0",
+  "description": "Simple Stock Trade Simulator",
+  "main": "index.js",
+  "author": "Rômulo de Farias <romulo_fantomaz@hotmail.com>",
+  "license": "MIT"
+}
