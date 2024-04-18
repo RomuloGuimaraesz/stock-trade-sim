@@ -4,5 +4,14 @@
   "description": "Simple Stock Trade Simulator",
   "main": "index.js",
   "author": "Rômulo de Farias <romulo_fantomaz@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "3.2.5"
+  }
 }
